@@ -77,6 +77,15 @@ Reference guide for astro driver and software.
 | Touch 'N' Stars             | Great for controlling and monitoring from your phone                                |
 | WandererAstro Tools         | Only if you use a Wanderer Astro Device                                             |
 
+### Recommended Software For Remote:
+
+| Name                        | URL                                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| TailScale                   | [https://tailscale.com/download](https://tailscale.com/download)                                            |
+| Chrome RDP                  | [https://remotedesktop.google.com/access/](https://remotedesktop.google.com/access/)                        | 
+| RustDesk                    | [https://github.com/rustdesk/rustdesk/releases/latest](https://github.com/rustdesk/rustdesk/releases/latest)| 
+| AnyDesk                     | [https://anydesk.com/en/downloads/](https://anydesk.com/en/downloads/)                                      |
+
 ## Author
 
 **Nazmus Nasir (Naztronomy)**
