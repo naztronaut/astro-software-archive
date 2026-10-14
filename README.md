@@ -62,6 +62,7 @@ Reference guide for astro driver and software.
 | Discord Alert               | Great alternative to Ground Station with more control and one that works more often |
 | Ground Station              | Very strong notification plugin. Note: I have issues with this being consistent     |
 | Hocus Focus                 | must have for focusing                                                              |
+| Filter Offset Calculator    | Only focus with one filter and save a ton of time                                   | 
 | Livestack                   | Fun optional app if you want to do EAA within NINA                                  |
 | Log Viewer                  | Great for troubleshooting                                                           |
 | Night Summary               | neat summary sent to you at the end of your session. Great for remote.              |
